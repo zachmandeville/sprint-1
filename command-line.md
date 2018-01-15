@@ -13,7 +13,7 @@ The command-line is a method for interacting with your computer that pre-dates t
 * cd - change directory.  If I don't say where I want to change directories to, it'll take me home.
 * vim - run the text editor vim.  If I include a file with the command, it will open the file _with_ vim, so I can use the text editor to modify the file.
 * rm - remove a file.
-* man - open the manual page for a command, so I can learn more about it and it's various flags.
+* man - open the manual page for a command, so I can learn more about it and it's various flags. It's the best command.
 * chmod - change the permissions of a file or directory (who can read it, write it, or execute it as a program)
 * mv - move a file.  If I move it to a newly named file, that does not exist, it acts closer to 'renaming'
 * ssh - Creates a tunnel from one computer or server to another, through a 'secure shell'.  Useful for logging into a web server.
